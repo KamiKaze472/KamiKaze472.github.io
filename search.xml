@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>My New Post</title>
+    <url>/2025/04/24/My-New-Post/</url>
+    <content><![CDATA[<p>测试 Giscus 评论系统是否正常显示。</p>
+<p>✅ 这是用于测试 Waline 评论系统是否加载成功的文章。</p>
+<p>只要你看到下方出现评论输入框，说明配置成功 🎉</p>
+<p>你也可以留言试试，会实时显示在页面中。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>我与快捷指令</title>
     <url>/2025/05/14/%E6%88%91%E4%B8%8E%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/</url>
     <content><![CDATA[<p>大概是2022年7月, 我第一次接触快捷指令, 从那之后我就依赖上了这个“低代码软件”</p>
@@ -21,12 +30,17 @@
       </tags>
   </entry>
   <entry>
-    <title>My New Post</title>
-    <url>/2025/04/24/My-New-Post/</url>
-    <content><![CDATA[<p>测试 Giscus 评论系统是否正常显示。</p>
-<p>✅ 这是用于测试 Waline 评论系统是否加载成功的文章。</p>
-<p>只要你看到下方出现评论输入框，说明配置成功 🎉</p>
-<p>你也可以留言试试，会实时显示在页面中。</p>
+    <title>通过python抓取特斯拉官方二手车的信息</title>
+    <url>/2025/05/14/%E9%80%9A%E8%BF%87python%E6%8A%93%E5%8F%96%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%98%E6%96%B9%E4%BA%8C%E6%89%8B%E8%BD%A6%E7%9A%84%E4%BF%A1%E6%81%AF/</url>
+    <content><![CDATA[<p>一直以来都很喜欢特斯拉, 奈何我收入微薄, 所以只能把目光转向特斯拉官方认证二手车(目前也只是关注, 还不准备买)</p>
+<p>写了一个python脚本, 可以抓取特斯拉model3 的二手车信息, 提取每辆车的车型、年份、描述、里程、价格、地点等信息，最后保存为本地文本文件。感觉还可以后续开发对比每日车辆上架和售出情况 :-P </p>
+<blockquote>
+<p>需要按需导入相关的包 并 配置Selenium 无头浏览器的路径</p>
+</blockquote>
+<p><a href="https://gist.github.com/KamiKaze472/b25f097ff214b569dda57e78f84e69e1">脚本链接</a></p>
 ]]></content>
+      <tags>
+        <tag>python</tag>
+      </tags>
   </entry>
 </search>

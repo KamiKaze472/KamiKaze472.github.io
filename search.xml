@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我与快捷指令</title>
+    <url>/2025/05/14/%E6%88%91%E4%B8%8E%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/</url>
+    <content><![CDATA[<p>大概是2022年7月, 我第一次接触快捷指令, 从那之后我就依赖上了这个“低代码软件”</p>
+<p>快捷指令对于程序员可以说是无门槛, 可以让 iPhone 运行起来更有效率</p>
+<p>目前我有50个快捷指令(包含Mac快捷指令 和 已经废弃的快捷指令)</p>
+<p>以下是我用的比较多的快捷指令</p>
+<ol>
+<li><p>播放网易云音乐每日推荐歌曲<br><a href="https://www.icloud.com/shortcuts/0707b703f06b414dae524fccfbddb5b8">获取链接</a><br>功能介绍: 播放每日推荐歌曲, 每2分钟切换下一首歌, 总共循环20次<br>备注: 这个快捷指令只对低版本网易云有效, 我的软件版本是6.5.2, 而且快捷指令运行过程中无法中断, 除非关机重启手机</p>
+</li>
+<li><p>未来24小时天气<br><a href="https://www.icloud.com/shortcuts/bb1dd003de704ed0a898abb07af6d823">获取链接</a><br>功能介绍: 获取此刻的温度, 和一天后同一时间的温度进行对比, 提示温度变化, 如果24小时内会降雨, 也会通知提醒<br>备注: 这个快捷指令推荐配合自动化每天定时运行</p>
+</li>
+<li><p>先写2个吧, 要是以后有人感兴趣再更新😂</p>
+</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>IOS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>My New Post</title>
     <url>/2025/04/24/My-New-Post/</url>
     <content><![CDATA[<p>测试 Giscus 评论系统是否正常显示。</p>
